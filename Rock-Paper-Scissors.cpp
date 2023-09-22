@@ -63,10 +63,11 @@ int main() {
        score=score+2;pcscore--;
     }
 cout<<"You scor: "<<score<<"                    "<<"Pc Score:"<<pcscore<<endl;
-cin>>next;
-if(Mesec==4 || Mesec==4){
+     cin.get();
+if(next==4 || Mesec==4){
+     cin.get();
     break;
+    
 }
-
 }
 }
